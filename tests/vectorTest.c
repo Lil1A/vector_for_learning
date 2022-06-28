@@ -43,7 +43,7 @@ void vectorRemoveTest() {
     vectorAdd(vector, 63);
     vectorAdd(vector, 420);
     vectorAdd(vector, 69);
-    vectorAdd(vector, -8924);
+    vectorAdd(vector, -8923);
 
     vectorRemove(vector, 2);
     vectorRemove(vector, 2);
